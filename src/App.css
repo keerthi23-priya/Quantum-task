@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #09AF9B;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 20px;
+}
+
+@keyframes spin-slower {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slower {
+  animation: spin-slower 40s linear infinite;
+}
