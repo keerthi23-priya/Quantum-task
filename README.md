@@ -85,7 +85,7 @@ Footer – Glassmorphic footer with background art
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/quantum-evolution.git
+https://github.com/keerthi23-priya/Quantum-task.git
 
 2️⃣ Install dependencies
 npm install
