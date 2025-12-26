@@ -1,16 +1,126 @@
-# React + Vite
+🌌 Quantum (R) Evolution – Healing & Consciousness Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web platform for Quantum (R) Evolution, designed to showcase quantum healing programs, courses, testimonials, founders, and contact engagement through a premium glassmorphism UI.
 
-Currently, two official plugins are available:
+This project focuses on visual storytelling, smooth UX, and clean component-based architecture using React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo
 
-## React Compiler
+https://splendid-flan-070847.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧠 Project Overview
 
-## Expanding the ESLint configuration
+Quantum (R) Evolution is a wellness-focused platform that blends modern web design with spiritual and scientific concepts such as quantum healing, consciousness, and energy alignment.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The site includes:
+
+A visually rich hero section
+
+Informational sections explaining quantum healing
+
+Course listings with interactive sliders
+
+Testimonials carousel
+
+Founders introduction
+
+Glassmorphic footer with background art
+
+Contact form for user engagement
+
+✨ Key Features
+
+⚛️ Modern UI / Glassmorphism
+
+🎨 Quantum-inspired visuals & animations
+
+🧩 Component-based React architecture
+
+📱 Fully responsive design
+
+🎠 Swiper-powered sliders (Courses & Testimonials)
+
+🌫️ Backdrop blur & layered background effects
+
+🧭 Clean layout flow with controlled spacing
+
+📨 Contact form UI
+
+🛠️ Tech Stack
+
+Frontend: React (Vite / CRA)
+
+Styling: Tailwind CSS
+
+Icons: React Icons
+
+Sliders: Swiper.js
+
+Assets: Custom quantum visuals & imagery
+
+📂 Project Structure
+src/
+│── assets/          # Images & visual assets
+│── components/      # Reusable UI components
+│── sections/        # Page sections (Hero, Courses, etc.)
+│── App.jsx          # Root component
+│── main.jsx         # Entry point
+│── index.css        # Global styles
+
+🧱 Main Sections
+
+Hero – Introduction to Quantum Healing
+
+Why Choose Quantum (R) Evolution – Value proposition
+
+Courses – Interactive course slider
+
+Testimonials – Real experiences carousel
+
+Founders – Founder profiles with visual emphasis
+
+Contact – Call-to-action & inquiry form
+
+Footer – Glassmorphic footer with background art
+
+🚀 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/your-username/quantum-evolution.git
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the project
+npm run dev
+
+🎯 Design Goals
+
+Maintain visual consistency across sections
+
+Avoid unnecessary spacing between components
+
+Use glassmorphism & blur effects correctly
+
+Keep UI elegant without sacrificing performance
+
+📌 Future Improvements
+
+🔐 Backend integration (API & database)
+
+📩 Form submission handling
+
+🌍 Internationalization (multi-language support)
+
+⚡ Performance optimizations
+
+🧪 Accessibility improvements (ARIA)
+
+📄 License
+
+This project is created for educational and demonstration purposes.
+All branding, names, and content belong to Quantum (R) Evolution.
+
+👤 Author
+
+Keerthi Priya
+Frontend / MERN Stack Developer
